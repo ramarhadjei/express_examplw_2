@@ -1,0 +1,25 @@
+{
+  "name": "express_example_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "install": "^0.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramarhadjei/express_examplw_2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramarhadjei/express_examplw_2/issues"
+  },
+  "homepage": "https://github.com/ramarhadjei/express_examplw_2#readme"
+}
